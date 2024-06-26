@@ -10,4 +10,4 @@ table1.txt. Magnitude Data for Table 1 from Lockwood and Jerzykiewicz (2006).
 
 table2.txt. Magnitude Data for Table 2 from Lockwood and Jerzykiewicz (2006).
 
-blue_magnitudes.txt and green_magnitudes.txt list the blue and green magnitudes plotted in Figure with magnitiude corrections listed. 
+blue_magnitudes.txt and green_magnitudes.txt list the blue and green magnitudes plotted in the published Figure 11 with magnitude corrections listed in file headers.
