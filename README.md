@@ -5,3 +5,7 @@ This repository contains data files used in the publication of our paper on Uran
 The magnitudes in Figure 11 are listed in the following files:
 
 Table5.txt. Magnitude Data for Table 5 (Supplementary Information) from Lockwood (2019).
+
+table1.txt. Magnitude Data for Table 1 from Lockwood and Jerzykiewicz (2006).
+
+table2.txt. Magnitude Data for Table 2 from Lockwood and Jerzykiewicz (2006).
